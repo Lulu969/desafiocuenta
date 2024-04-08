@@ -1,0 +1,31 @@
+html {
+    font: normal 22px Simonson;
+    color: rgb(0, 0, 0);
+    background-color: rgba(243, 240, 240, 0.959);
+}
+
+a {
+    display: block;
+    width: 80px;
+    background-color: hwb(0 100% 0%);
+    border-radius: 5px;
+    padding: 3px 80px;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+.nose {
+    display: flex;
+    justify-content: center;
+}
+
+
+input[type="submit"] {
+    width: 90%;
+    background-color: rgb(4, 0, 255);
+    margin: 5px 10px;
+    padding: 5px 30px;
+    color: aliceblue;
+    border: 2px solid #ccc;
+    border-radius: 7px;
+}
